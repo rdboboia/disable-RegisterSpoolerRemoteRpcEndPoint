@@ -2,6 +2,10 @@
 Workaround for Windows Print Spooler Remote Code Execution Vulnerability(CVE-2021-34527). See:
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-34527
 
+## Update 2021-07-08: Microsoft released a patch
+Microsoft already released a patch for this vulnerability, so keeping your system up to date should be enough.
+However, you can still turn off this functionality if you want (maybe because you don't use it or maybe because you still don't feel safe).
+
 ## How to use it
 Download an execute with admin privileges.
 
